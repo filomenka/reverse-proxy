@@ -2,10 +2,9 @@ Require ip 127.0.0.1
 
 #Home
 Require ip 192.168.0
-Require ip 80.242.36.83
-
+#Require ip 80.242.36.83
 ### TODO Jozko Galis - wut is this shit?
-Require ip 80.242.32.110
+#Require ip 80.242.32.110
 
 #DVSK
 Require ip 212.89.233.194
