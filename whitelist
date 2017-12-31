@@ -1,10 +1,14 @@
-Order deny,allow
-Deny from all
-Allow from 127.0.0.1
-Allow from 192.168.*.*    #Doma
-#Allow from 80.242.36.83   #Doma
-#Allow from 80.242.32.110  ### TODO Jozko Galis - wut is this shit?
-Allow from 212.89.233.194 #DVS Bratislava
-Allow from 212.89.233.195 #DVS Bratislava
-Allow from 212.89.239.26  #DVS Zilina
-Allow from 212.89.239.28  #DVS Zilina
+Require ip 127.0.0.1
+
+#Home
+Require ip 192.168.0
+Require ip 80.242.36.83
+
+### TODO Jozko Galis - wut is this shit?
+Require ip 80.242.32.110
+
+#DVSK
+Require ip 212.89.233.194
+Require ip 212.89.233.195
+Require ip 212.89.239.26
+Require ip 212.89.239.28
