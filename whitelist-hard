@@ -15,3 +15,7 @@ Require ip 212.89.239.28
 #Github
 Require host github.com
 Require host api.github.com
+Require ip 192.30.253.113
+Require ip 192.30.253.112
+Require ip 192.30.253.117
+Require ip 192.30.253.116
