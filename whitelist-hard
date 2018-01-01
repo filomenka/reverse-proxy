@@ -14,3 +14,4 @@ Require ip 212.89.239.28
 
 #Github
 Require host github.com
+Require host api.github.com
