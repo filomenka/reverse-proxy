@@ -10,4 +10,4 @@ Require ip 80.242.32.110
 Require ip 212.89.233.194
 Require ip 212.89.233.195
 Require ip 212.89.239.26
-Require ip 212.89.239.28
+#Require ip 212.89.239.28
