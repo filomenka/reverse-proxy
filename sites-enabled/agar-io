@@ -1,1 +1,1 @@
-include \/etc\/httpd\/whitelist-soft
+include \/etc\/httpd\/whitelist-hard
