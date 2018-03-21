@@ -12,6 +12,9 @@ Require ip 212.89.233.195
 Require ip 212.89.239.26
 Require ip 212.89.239.28
 
+#DVG-BE
+Require ip 84.199.47.10
+
 #HolidayInn
 #Require ip 193.173.216
 
