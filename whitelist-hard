@@ -11,6 +11,9 @@ Require ip 212.89.233.194
 Require ip 212.89.233.195
 Require ip 212.89.239.26
 Require ip 212.89.239.28
+Require ip 52.214.32.160
+
+
 
 #DVG-BE
 #Require ip 84.199.47.10
