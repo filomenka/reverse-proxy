@@ -29,3 +29,6 @@ Require ip 80.242.32.110
 #Require ip 80.242.32
 
 #Require ip 87.197.159.10
+
+#Piano
+Require ip 195.168.99.243 #Guest WiFi
