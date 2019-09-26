@@ -7,16 +7,16 @@ Require ip 80.242.32.110
 ### TODO Jozko Galis - wut is this shit? 80.242.32.110
 
 #DVSK
-Require ip 212.89.233.194
-Require ip 212.89.233.195
-Require ip 212.89.239.26
-Require ip 212.89.239.28
+#Require ip 212.89.233.194
+#Require ip 212.89.233.195
+#Require ip 212.89.239.26
+#Require ip 212.89.239.28
 #Require ip 52.214.32.160
-Require ip 82.119.114.212
-Require ip 82.119.114.146
-Require ip 82.119.114.221
+#Require ip 82.119.114.212
+#Require ip 82.119.114.146
+#Require ip 82.119.114.221
 
-Require ip 46.189.28.93
+#Require ip 46.189.28.93
 
 #DVG-BE
 #Require ip 84.199.47.10
